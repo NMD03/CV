@@ -50,7 +50,7 @@
     margin: (top: 1cm, bottom: 1cm, left: 1.5cm, right: 1.5cm),
     flipped: false,
     footer: [
-      #set text(fill: black, size: 8pt)
+      #set text(fill: light_grey, size: 8pt)
       #align_footer[
         #smallcaps[#date]
       ][
